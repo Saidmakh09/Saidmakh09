@@ -7,7 +7,7 @@ My name is Said Makh, you have landed on my page, please check out my LinkedIn a
 Status - I attend Belmont University, in Nashville TN. 
 Graduate - May 2025
 
-Website - Under Maintanence! 
+Personal Website - https://saidmakh09.github.io/
 
 *Check out my MSR minig challengage paper that I worked on, with my partners!*
 https://github.com/minash23/MSR
