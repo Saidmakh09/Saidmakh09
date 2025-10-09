@@ -9,8 +9,5 @@ Graduate - May 2025
 
 Personal Website - https://saidmakh09.github.io/
 
-*Check out my MSR minig challengage paper that I worked on, with my partners!*
-https://github.com/minash23/MSR
-
 Emacs-Enthusiast, NeoVim-Lover
 LinkedIn - https://www.linkedin.com/in/said-makh/
