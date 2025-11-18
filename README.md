@@ -84,10 +84,14 @@ tools_of_choice: ["Neovim", "Emacs", "Terraform", "Docker"]
 <td width="50%">
 
 ### 💼 Professional Experience
-- **Health Connect America** - System Admin
+- **Health Connect America** - SWE
   - Implemented CI/CD pipelines
+  - ML model applied in ZenDesk to aid tickets
+  - Contitrubutions to the 
+- **Health Connect America** - System Admin Intern
   - Configured CloudWatch & Auto Scaling
   - Azure VM & Microsoft Sentinel integration
+  - Helped close tickets
 - **ZiyoTek** - DevOps Engineer Intern
   - Led VMware infrastructure project
   - Managed AWS S3 & IAM policies
