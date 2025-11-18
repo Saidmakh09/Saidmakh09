@@ -84,7 +84,7 @@ tools_of_choice: ["Neovim", "Emacs", "Terraform", "Docker"]
 <td width="50%">
 
 ### 💼 Professional Experience
-- **Health Connect America** - System Admin Intern
+- **Health Connect America** - System Admin
   - Implemented CI/CD pipelines
   - Configured CloudWatch & Auto Scaling
   - Azure VM & Microsoft Sentinel integration
